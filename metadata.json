@@ -1,0 +1,8 @@
+{
+  "name": "Structured iExplain Education Redesign",
+  "description": "A modern, professional redesign of the iExplain Education platform with mega menus, AI-powered study abroad counseling, and a clean, conversion-focused UI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
